@@ -10,7 +10,9 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c0678420-766e-4d08-8461-6ec10f119922" name="Default Changelist" comment="" />
+    <list default="true" id="c0678420-766e-4d08-8461-6ec10f119922" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,6 +29,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectId" id="1fFhwzyiTyIDjFFvrmXid7QvlNQ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -280,7 +283,7 @@
       <workItem from="1628647439024" duration="809000" />
       <workItem from="1628650681564" duration="14485000" />
       <workItem from="1628734107188" duration="1478000" />
-      <workItem from="1628750103375" duration="818000" />
+      <workItem from="1628750103375" duration="1570000" />
     </task>
     <servers />
   </component>
@@ -308,6 +311,10 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="366" y="240" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1627539453016" />
+    <state x="514" y="88" width="948" height="928" key="CommitChangelistDialog2" timestamp="1628751354474">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="514" y="88" width="948" height="928" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1628751354474" />
     <state x="776" y="310" width="416" height="484" key="FileChooserDialogImpl" timestamp="1628648966805">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -344,6 +351,14 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state width="1807" height="229" key="GridCell.Tab.1.right/67.27.1853.1053@67.27.1853.1053" timestamp="1628676107989" />
+    <state x="588" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1628751407667">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="588" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1628751407667" />
+    <state x="757" y="466" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1628751415031">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="757" y="466" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/67.27.1853.1053@67.27.1853.1053" timestamp="1628751415031" />
     <state x="673" y="277" width="812" height="550" key="find.popup" timestamp="1625468142725">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
