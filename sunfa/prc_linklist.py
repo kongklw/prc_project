@@ -114,11 +114,7 @@ if __name__ == '__main__':
     sll.add(4)
     sll.add(5)
 
-    # sll.append(1)
-    # sll.append(2)
-    # sll.append(3)
-    # sll.append(4)
-    # sll.append(5)
+
 
     print(sll.is_empty())
     print(sll.length())

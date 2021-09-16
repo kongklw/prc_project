@@ -11,7 +11,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c0678420-766e-4d08-8461-6ec10f119922" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/sunfa/everyday.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sunfa/prc_linklist.py" beforeDir="false" afterPath="$PROJECT_DIR$/sunfa/prc_linklist.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sunfa/sortnum.py" beforeDir="false" afterPath="$PROJECT_DIR$/sunfa/sortnum.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +45,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../workspace/eb_aiops2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -60,7 +63,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.prc_linklist">
+  <component name="RunManager" selected="Python.everyday">
     <configuration name="caculate_timeit_module" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="prc_project" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -75,6 +78,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sunfa/caculate_timeit_module.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="everyday" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="prc_project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sunfa" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sunfa/everyday.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -119,28 +144,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sunfa/prc_linklist.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="prc_turtle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="prc_project" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prc_turtle.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -196,19 +199,19 @@
     </configuration>
     <list>
       <item itemvalue="Django Server.Unnamed" />
-      <item itemvalue="Python.prc_turtle" />
       <item itemvalue="Python.caculate_timeit_module" />
       <item itemvalue="Python.prc_linklist" />
       <item itemvalue="Python.paixu" />
       <item itemvalue="Python.sortnum" />
+      <item itemvalue="Python.everyday" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.everyday" />
+        <item itemvalue="Python.sortnum" />
         <item itemvalue="Python.prc_linklist" />
         <item itemvalue="Python.paixu" />
-        <item itemvalue="Python.sortnum" />
         <item itemvalue="Python.caculate_timeit_module" />
-        <item itemvalue="Python.prc_turtle" />
       </list>
     </recent_temporary>
   </component>
@@ -283,7 +286,8 @@
       <workItem from="1628647439024" duration="809000" />
       <workItem from="1628650681564" duration="14485000" />
       <workItem from="1628734107188" duration="1478000" />
-      <workItem from="1628750103375" duration="1570000" />
+      <workItem from="1628750103375" duration="12893000" />
+      <workItem from="1629785400495" duration="3058000" />
     </task>
     <servers />
   </component>
@@ -315,42 +319,42 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="514" y="88" width="948" height="928" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1628751354474" />
-    <state x="776" y="310" width="416" height="484" key="FileChooserDialogImpl" timestamp="1628648966805">
+    <state x="776" y="310" width="416" height="484" key="FileChooserDialogImpl" timestamp="1628835452338">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="776" y="310" width="416" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1628648966805" />
-    <state width="1807" height="229" key="GridCell.Tab.0.bottom" timestamp="1628676107988">
+    <state x="776" y="310" width="416" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1628835452338" />
+    <state width="1807" height="248" key="GridCell.Tab.0.bottom" timestamp="1628846605739">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="229" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1628676107988" />
-    <state width="1807" height="229" key="GridCell.Tab.0.center" timestamp="1628676107988">
+    <state width="1807" height="248" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1628846605739" />
+    <state width="1807" height="248" key="GridCell.Tab.0.center" timestamp="1628846605737">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="229" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1628676107988" />
-    <state width="1807" height="229" key="GridCell.Tab.0.left" timestamp="1628676107988">
+    <state width="1807" height="248" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1628846605737" />
+    <state width="1807" height="248" key="GridCell.Tab.0.left" timestamp="1628846605736">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="229" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1628676107988" />
-    <state width="1807" height="229" key="GridCell.Tab.0.right" timestamp="1628676107988">
+    <state width="1807" height="248" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1628846605736" />
+    <state width="1807" height="248" key="GridCell.Tab.0.right" timestamp="1628846605738">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="229" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1628676107988" />
-    <state width="1807" height="229" key="GridCell.Tab.1.bottom" timestamp="1628676107989">
+    <state width="1807" height="248" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1628846605738" />
+    <state width="1807" height="248" key="GridCell.Tab.1.bottom" timestamp="1628846605742">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="229" key="GridCell.Tab.1.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1628676107989" />
-    <state width="1807" height="229" key="GridCell.Tab.1.center" timestamp="1628676107989">
+    <state width="1807" height="248" key="GridCell.Tab.1.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1628846605742" />
+    <state width="1807" height="248" key="GridCell.Tab.1.center" timestamp="1628846605741">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="229" key="GridCell.Tab.1.center/67.27.1853.1053@67.27.1853.1053" timestamp="1628676107989" />
-    <state width="1807" height="229" key="GridCell.Tab.1.left" timestamp="1628676107988">
+    <state width="1807" height="248" key="GridCell.Tab.1.center/67.27.1853.1053@67.27.1853.1053" timestamp="1628846605741" />
+    <state width="1807" height="248" key="GridCell.Tab.1.left" timestamp="1628846605740">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="229" key="GridCell.Tab.1.left/67.27.1853.1053@67.27.1853.1053" timestamp="1628676107988" />
-    <state width="1807" height="229" key="GridCell.Tab.1.right" timestamp="1628676107989">
+    <state width="1807" height="248" key="GridCell.Tab.1.left/67.27.1853.1053@67.27.1853.1053" timestamp="1628846605740" />
+    <state width="1807" height="248" key="GridCell.Tab.1.right" timestamp="1628846605742">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="229" key="GridCell.Tab.1.right/67.27.1853.1053@67.27.1853.1053" timestamp="1628676107989" />
+    <state width="1807" height="248" key="GridCell.Tab.1.right/67.27.1853.1053@67.27.1853.1053" timestamp="1628846605742" />
     <state x="588" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1628751407667">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -372,6 +376,11 @@
           <line>28</line>
           <option name="timeStamp" value="10" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/sunfa/sortnum.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -382,7 +391,7 @@
     <SUITE FILE_PATH="coverage/prc_project$prc_tuisong3.coverage" NAME="prc_tuisong3 Coverage Results" MODIFIED="1626675699571" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/prc_project$prc_server.coverage" NAME="prc_server Coverage Results" MODIFIED="1626317293966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prc_socket" />
     <SUITE FILE_PATH="coverage/prc_project$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1619595394422" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/async_excute" />
-    <SUITE FILE_PATH="coverage/prc_project$sortnum.coverage" NAME="sortnum Coverage Results" MODIFIED="1628652726496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sunfa" />
+    <SUITE FILE_PATH="coverage/prc_project$sortnum.coverage" NAME="sortnum Coverage Results" MODIFIED="1628754103847" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sunfa" />
     <SUITE FILE_PATH="coverage/prc_project$caculate_timeit_module.coverage" NAME="caculate_timeit_module Coverage Results" MODIFIED="1628565564764" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sunfa" />
     <SUITE FILE_PATH="coverage/prc_project$combine_arry.coverage" NAME="combine_arry Coverage Results" MODIFIED="1626849539081" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sunfa" />
     <SUITE FILE_PATH="coverage/prc_project$prc_greenlet.coverage" NAME="prc_greenlet Coverage Results" MODIFIED="1624525460686" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/async_excute" />
@@ -404,6 +413,7 @@
     <SUITE FILE_PATH="coverage/prc_project$prc_tuisong__1_.coverage" NAME="prc_tuisong (1) Coverage Results" MODIFIED="1626664028117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/prc_project$word_count.coverage" NAME="word_count Coverage Results" MODIFIED="1598867584961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/employment" />
     <SUITE FILE_PATH="coverage/prc_project$p1.coverage" NAME="p1 Coverage Results" MODIFIED="1607593562339" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pandas" />
+    <SUITE FILE_PATH="coverage/prc_project$everyday.coverage" NAME="everyday Coverage Results" MODIFIED="1628840922828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sunfa" />
     <SUITE FILE_PATH="coverage/prc_project$prcftp.coverage" NAME="prcftp Coverage Results" MODIFIED="1618372028463" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tranfile" />
     <SUITE FILE_PATH="coverage/prc_project$prc_spark.coverage" NAME="prc_spark Coverage Results" MODIFIED="1598433087492" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/prc_project$prc_client.coverage" NAME="prc_client Coverage Results" MODIFIED="1626317298648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prc_socket" />
